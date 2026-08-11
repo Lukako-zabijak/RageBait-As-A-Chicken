@@ -1,0 +1,1 @@
+-- npc models only; gameplay is implemented by the rewritten chase service.
