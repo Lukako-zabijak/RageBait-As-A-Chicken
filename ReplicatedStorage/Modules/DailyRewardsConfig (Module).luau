@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local config = {}
 
 config.DeveloperProductId = 3571254188

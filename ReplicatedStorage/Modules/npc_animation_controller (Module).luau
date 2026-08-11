@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local npc_animation_controller = {}
 
 local idle_assets = {

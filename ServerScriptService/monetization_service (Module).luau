@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 -- server authority for passes and developer products. receipt results remain
 -- retryable until the associated grant has been recorded successfully.
 

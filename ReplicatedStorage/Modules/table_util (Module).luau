@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local table_util = {}
 
 function table_util.deep_copy(value, seen)

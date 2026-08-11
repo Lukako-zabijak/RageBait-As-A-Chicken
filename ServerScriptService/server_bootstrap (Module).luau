@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 -- composition root for server systems. all client requests enter through the
 -- validated and rate-limited adapters configured in this module.
 

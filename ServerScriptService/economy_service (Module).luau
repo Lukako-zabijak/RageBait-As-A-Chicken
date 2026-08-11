@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local data_service = require(script.Parent.data_service)
 local shop_storage = require(script.Parent.ShopHandler.ShopStorage)
 local table_util = require(game:GetService("ReplicatedStorage").Modules.table_util)

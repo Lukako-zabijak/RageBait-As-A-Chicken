@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local replicated_storage = game:GetService("ReplicatedStorage")
 
 local inventory_service = require(script.Parent.inventory_service)

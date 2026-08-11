@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local players = game:GetService("Players")
 
 local character_service = require(game.ServerScriptService.character_service)

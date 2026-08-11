@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 -- starts presentation controllers once and isolates their failures so one ui
 -- feature cannot prevent the rest of the client from initializing.
 

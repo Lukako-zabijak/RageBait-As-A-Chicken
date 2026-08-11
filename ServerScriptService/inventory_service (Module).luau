@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 -- maintains authoritative inventory mutations and validates equipment against
 -- the player's loaded profile before cloning server-owned tools.
 

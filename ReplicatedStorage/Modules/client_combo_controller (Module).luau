@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local players = game:GetService("Players")
 local replicated_storage = game:GetService("ReplicatedStorage")
 local tween_service = game:GetService("TweenService")
@@ -291,4 +293,3 @@ function controller.start()
 end
 
 return controller
-

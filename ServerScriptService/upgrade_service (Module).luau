@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local replicated_storage = game:GetService("ReplicatedStorage")
 
 local data_service = require(script.Parent.data_service)
@@ -171,4 +173,3 @@ function upgrade_service.clear_player(player)
 end
 
 return upgrade_service
-

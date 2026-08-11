@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 -- calculates daily and playtime eligibility on the server and commits claims
 -- through the shared profile mutation boundary to prevent client-forged grants.
 

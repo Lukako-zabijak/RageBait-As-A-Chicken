@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local rig = script.Parent
 local humanoid = rig:FindFirstChildOfClass("Humanoid") or rig:WaitForChild("Humanoid", 5)
 if not humanoid then return end

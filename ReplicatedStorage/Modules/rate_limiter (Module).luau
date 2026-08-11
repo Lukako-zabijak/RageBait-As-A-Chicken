@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local rate_limiter = {}
 rate_limiter.__index = rate_limiter
 

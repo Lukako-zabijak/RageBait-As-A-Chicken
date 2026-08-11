@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local marketplace_service = game:GetService("MarketplaceService")
 
 local data_service = require(script.Parent.data_service)

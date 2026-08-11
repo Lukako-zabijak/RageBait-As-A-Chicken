@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 -- owns crate purchase, inventory consumption, reward selection, and the
 -- pending-result handoff used by the client-side opening presentation.
 

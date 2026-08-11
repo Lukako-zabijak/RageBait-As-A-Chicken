@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local starter_gui = game:GetService("StarterGui")
 
 local controller = {}

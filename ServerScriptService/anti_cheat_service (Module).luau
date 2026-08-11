@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 -- scores server-observed movement violations over time instead of trusting
 -- client reports or removing a player after one noisy physics sample.
 

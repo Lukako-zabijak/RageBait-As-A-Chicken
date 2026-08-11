@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local players = game:GetService("Players")
 local pathfinding_service = game:GetService("PathfindingService")
 local replicated_storage = game:GetService("ReplicatedStorage")

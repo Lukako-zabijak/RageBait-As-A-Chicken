@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local tool = script.Parent
 local handle = tool:WaitForChild("Handle")
 local force = Instance.new("BodyForce")

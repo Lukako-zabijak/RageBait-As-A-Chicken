@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local config = {}
 
 local personalities = {
@@ -114,4 +116,3 @@ function config.names()
 end
 
 return config
-

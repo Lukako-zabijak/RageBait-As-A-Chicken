@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 -- owns persistent player profiles and their server-session locks. writes use
 -- UpdateAsync so a stale server cannot overwrite a profile owned elsewhere.
 

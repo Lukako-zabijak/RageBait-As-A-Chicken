@@ -1,3 +1,5 @@
+-- Made by LukakoZabijak (lukakozabijak) on discord, killerox3905 on Roblox.
+
 local replicated_storage = game:GetService("ReplicatedStorage")
 
 local economy_service = require(script.Parent.economy_service)
@@ -213,4 +215,3 @@ function combo_service.remove_player(player)
 end
 
 return combo_service
-
