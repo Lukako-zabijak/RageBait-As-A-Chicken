@@ -1,3 +1,6 @@
+-- maintains authoritative inventory mutations and validates equipment against
+-- the player's loaded profile before cloning server-owned tools.
+
 local http_service = game:GetService("HttpService")
 local server_storage = game:GetService("ServerStorage")
 local replicated_storage = game:GetService("ReplicatedStorage")

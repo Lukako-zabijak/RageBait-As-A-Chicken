@@ -1,3 +1,6 @@
+-- owns crate purchase, inventory consumption, reward selection, and the
+-- pending-result handoff used by the client-side opening presentation.
+
 local replicated_storage = game:GetService("ReplicatedStorage")
 
 local data_service = require(script.Parent.data_service)

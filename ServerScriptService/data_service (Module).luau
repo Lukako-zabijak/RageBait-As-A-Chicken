@@ -1,3 +1,6 @@
+-- owns persistent player profiles and their server-session locks. writes use
+-- UpdateAsync so a stale server cannot overwrite a profile owned elsewhere.
+
 local data_store_service = game:GetService("DataStoreService")
 local players = game:GetService("Players")
 local replicated_storage = game:GetService("ReplicatedStorage")

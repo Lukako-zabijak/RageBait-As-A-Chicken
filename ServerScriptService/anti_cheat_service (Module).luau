@@ -1,3 +1,6 @@
+-- scores server-observed movement violations over time instead of trusting
+-- client reports or removing a player after one noisy physics sample.
+
 local players = game:GetService("Players")
 local run_service = game:GetService("RunService")
 

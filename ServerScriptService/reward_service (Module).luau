@@ -1,3 +1,6 @@
+-- calculates daily and playtime eligibility on the server and commits claims
+-- through the shared profile mutation boundary to prevent client-forged grants.
+
 local replicated_storage = game:GetService("ReplicatedStorage")
 
 local data_service = require(script.Parent.data_service)

@@ -1,3 +1,6 @@
+-- server authority for passes and developer products. receipt results remain
+-- retryable until the associated grant has been recorded successfully.
+
 local marketplace_service = game:GetService("MarketplaceService")
 local players = game:GetService("Players")
 local replicated_storage = game:GetService("ReplicatedStorage")

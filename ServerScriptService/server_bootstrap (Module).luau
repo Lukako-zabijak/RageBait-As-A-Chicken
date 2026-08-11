@@ -1,3 +1,6 @@
+-- composition root for server systems. all client requests enter through the
+-- validated and rate-limited adapters configured in this module.
+
 local players = game:GetService("Players")
 local replicated_storage = game:GetService("ReplicatedStorage")
 local server_storage = game:GetService("ServerStorage")
